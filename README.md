@@ -36,7 +36,7 @@ Make sure all the software listed above is installed.
 
 ### Step 2 – Configure Audio Devices
 1. Open your **Advanced Sound Settings**.  
-2. For both **Cable In 16ch** and **Cable Output**, which can be found inside **Playback** and **Recording**:
+2. For both **Cable In 16ch** and **Cable Output**, which can be found inside **Playback** and **Recording**, make sure these settings are selected for it:
    - Channels: 16  
    - Bit depth: 16-bit or 24-bit  
    - Sample rate: 48000 Hz  
