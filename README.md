@@ -39,7 +39,7 @@ Make sure all the software listed above is installed.
 2. For both **Cable In 16ch** and **Cable Output**, which can be found inside **Playback** and **Recording**, make sure these settings are selected for it:
    - Channels: 16  
    - Bit depth: 16-bit or 24-bit  
-   - Sample rate: 48000 Hz  
+   - Sample rate: 44100 Hz  (If you are listening to DDP (Dolby Digital Plus) Tracks, encoded for online media. 48000 Hz for True-HD.
 3. These settings are found in the **Advanced** tab of each audio device.
 
 ---
