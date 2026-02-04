@@ -86,7 +86,8 @@ Make sure all the software listed above is installed.
    - LFE = 4  
    - Remaining channels: route manually based on your setup.
 3. To route a channel, simply press **CTRL + Click** on one of the black squares in the routing grid.  
-4. Tip: Play a Dolby Atmos track in Dolby Reference Player, **mute all channels except the one you want to route**, then check the routing grid to see which channel is active. Repeat until all channels are correctly assigned.
+
+Tip: Play a Dolby Atmos track in Dolby Reference Player, **mute all channels except the one you want to route**, then check the routing grid to see which channel is active. Repeat until all channels are correctly assigned.
 
 ---
 
