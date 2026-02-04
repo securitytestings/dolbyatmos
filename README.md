@@ -23,7 +23,7 @@ Failure to comply may result in **legal consequences**. Use responsibly.
 
 To follow this project/tutorial, make sure you have the following software installed:
 
-- **[Dolby Reference Player](https://www.dolby.com/)** – for testing and playing Dolby Atmos content.  
+- **[Dolby Reference Player]([https://professional.dolby.com/product/media-processing-and-delivery/drp---dolby-reference-player/])** – for testing and playing Dolby Atmos content.  
 - **[VB-Audio Matrix Coconut](https://vb-audio.com/Matrix/coconut.htm)** – for routing the audio signals of Dolby Atmos.  
 - **[VB-Audio VB-Cable Virtual Audio Device](https://vb-audio.com/Cable/)** – to create a virtual audio device for routing Dolby Atmos. 
 
